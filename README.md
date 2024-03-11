@@ -2,7 +2,7 @@ The code used to create the unpolarised iso-singlet nucleon structure functions 
 
 This was the code I used during my masters project. It is quite lengthy and complicated. However, I will give a brief description in this readme.
 
-
+I have also added my thesis, this will give a good description of the theory behind the programs.
 
 ****************************************
 cutoff.py
